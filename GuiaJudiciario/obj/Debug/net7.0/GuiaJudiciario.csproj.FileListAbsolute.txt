@@ -1,0 +1,17 @@
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\bin\Debug\net7.0\GuiaJudiciario.exe
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\bin\Debug\net7.0\GuiaJudiciario.deps.json
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\bin\Debug\net7.0\GuiaJudiciario.runtimeconfig.json
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\bin\Debug\net7.0\GuiaJudiciario.dll
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\bin\Debug\net7.0\GuiaJudiciario.pdb
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.csproj.AssemblyReference.cache
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.GeneratedMSBuildEditorConfig.editorconfig
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.AssemblyInfoInputs.cache
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.AssemblyInfo.cs
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.csproj.CoreCompileInputs.cache
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.csproj.CopyComplete
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.dll
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\refint\GuiaJudiciario.dll
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.pdb
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\GuiaJudiciario.genruntimeconfig.cache
+C:\TIM\OneDrive - COPASA\PROJETOS\GuiaJudiciario\GuiaJudiciario\obj\Debug\net7.0\ref\GuiaJudiciario.dll

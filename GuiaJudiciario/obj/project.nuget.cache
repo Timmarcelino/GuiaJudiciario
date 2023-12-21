@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCpxQ8+IDnxzcLz1AwAKoR22z3Zk5lxP1pWBye/vKOTvOgi1TsaWernHy183LEI/PRQIK0QBtyJ2W08sPbZ3Vw==",
+  "success": true,
+  "projectFilePath": "C:\\TIM\\OneDrive - COPASA\\PROJETOS\\GuiaJudiciario\\GuiaJudiciario\\GuiaJudiciario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tim Marcelino\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
